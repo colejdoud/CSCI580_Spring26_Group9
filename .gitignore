@@ -1,0 +1,20 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.venv/
+*.pyc
+
+# Local downloaded datasets
+MNIST_data/
+data/MNIST/
+
+# Temporary files
+tmp/
+debug/
+scratch/
+
+# Optional: ignore videos
+*.mp4
+*.mov
+*.avi

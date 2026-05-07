@@ -1,0 +1,1 @@
+These digits are not 28x28 pixels and will need to be processed better later.

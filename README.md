@@ -24,5 +24,3 @@ For example, for image of digit 3 handwritten by Group 4 member 1, its filename 
   - 8-4-1.png
   - 9-4-1.png
 
-  Run scripts with:
-   python scripts/check_dataloader.py

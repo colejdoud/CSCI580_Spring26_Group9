@@ -1,0 +1,2 @@
+Run scripts with:
+   python scripts/check_dataloader.py

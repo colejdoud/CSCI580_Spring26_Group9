@@ -1,13 +1,32 @@
-# Handwritten-Digits-Spring-2026
+# CSCI 580 Spring 2026 Final Project - Group 9
 
-Handwritten digit image collection for CSCI 580 Spring 2026
+## Project Overview
 
-## Following these for your submission:
+This project implements a fully connected feedforward neural network, also known as a Multilayer Perceptron (MLP)
+for handwritten digit classification. The model is trained on the MNIST dataset and evaluated on both MNIST and a
+custom dataset created by student groups from CSCI580.
 
-Your images should be uploaded to the folder /digits/
+The final model uses PyTorch and uses only an MLP architecture.
 
-Use this filename convention:
+## Team Members
 
-      <label/digit>-<groupID>-<memberID>.png
+- Cole Doud
+- Ian Liggett
+- China Magat
+- Charlie Vuong
 
-For example, for image of digit 3 handwritten by Group 4 member 1, its filename must be 3-4-1.png.
+
+## How to Run the Project:
+
+1. Clone the repository
+git clone https://github.com/colejdoud/CSCI580_Spring26_Group9.git
+
+2. Open Project Folder
+cd CSCI580_Spring26_Group9/FinalProject
+
+3. Open the Notebook (Or upload to Google Colab)
+jupyter notebook final_project.ipynb
+
+4. Run the notebook from top to bottom
+Kernel -> Restart & Run All
+
